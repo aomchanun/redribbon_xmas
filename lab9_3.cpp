@@ -23,7 +23,7 @@ int main()
         }
         else
         {
-            cout << "Enter your bounty : ";
+            cout << "Enter your bounty: ";
             cin >> bounty;
             if(bounty > 1100000000)
             {
@@ -37,7 +37,7 @@ int main()
     }
     else if(age <= 60)
     {
-        cout << "Enter your bounty : ";
+        cout << "Enter your bounty: ";
         cin >> bounty;
         if(bounty > 500000000)
         {
